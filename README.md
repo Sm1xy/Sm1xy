@@ -10,7 +10,7 @@ Momentan arbeite ich an einem dc Bot
 ##  📩 Kontakt
 Discord: smixy
 
-## Programmiersprachen die Ich grad nutze
+## Programmiersprachen die Ich gerade nutze
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?size=48" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;
